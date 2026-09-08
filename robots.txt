@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pmsward11-cpu.github.io/reply-rescue/sitemap.xml
